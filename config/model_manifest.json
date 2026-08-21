@@ -1,0 +1,37 @@
+{
+  "training_sklearn_version": "1.6.1",
+  "target_mapping": {
+    "0": "Benign",
+    "1": "Attack"
+  },
+  "models": {
+    "decision_tree_final_balanced_binary.joblib": {
+      "compressed_file": "decision_tree_final_balanced_binary.joblib.gz",
+      "original_bytes": 698387,
+      "compressed_bytes": 156992,
+      "original_sha256": "97c54f0e83fdd689afd942d78ca259551d706a46015565e931aa2f5fad04d2d4",
+      "compressed_sha256": "286712d0a106dfa6e8b0b662d35655d1088a850711795f1bc9cd950d70d39d01"
+    },
+    "logistic_regression_final_balanced_binary.joblib": {
+      "compressed_file": "logistic_regression_final_balanced_binary.joblib.gz",
+      "original_bytes": 5853,
+      "compressed_bytes": 3765,
+      "original_sha256": "54a2bdeeeebce49b9f9b3179abf5e84b02342e2d0bcfd21a1e697a574c4cea07",
+      "compressed_sha256": "2521bea625947f722e85754da75f36ddf9698d83b7a9737ab46f5abbdc177541"
+    },
+    "mlp_ann_final_balanced_binary.joblib": {
+      "compressed_file": "mlp_ann_final_balanced_binary.joblib.gz",
+      "original_bytes": 238157,
+      "compressed_bytes": 209266,
+      "original_sha256": "71fa336418a68ad4649f87fc001143a0209be9377137480e37204107810a58b8",
+      "compressed_sha256": "c42c9c0ac5277731743e11d876de6ca434355cbd1be85e501f218134c0865a1a"
+    },
+    "random_forest_final_balanced_binary.joblib": {
+      "compressed_file": "random_forest_final_balanced_binary.joblib.gz",
+      "original_bytes": 232621346,
+      "compressed_bytes": 53384910,
+      "original_sha256": "82ed11287575aa188b18c9db4a957f7002aefa45df9d318b4e8bb7b98ec2b2ed",
+      "compressed_sha256": "87febad9888177ae504d478c9ebc205781e8c6c78022c68fcca042a436d50bfa"
+    }
+  }
+}
